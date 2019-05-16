@@ -26,7 +26,7 @@ public class ObjectIO {
 
     void toFile(File file) throws IOException{
         try {
-            output = new ObjectOutputStream(file);
+//            output = new ObjectOutputStream(file);
 
             for(int i=0; i<100; i++){
                 output.write(i);
@@ -59,7 +59,7 @@ public class ObjectIO {
     void readFile(File file) throws IOException{
         try {
             int sum = 0;
-            input = new FileInputStream(file);
+//            input = new FileInputStream(file);
             while(input.available()!=0){
                 sum+=input.read();
             }

@@ -1,6 +1,6 @@
 public class Card {
     public Card(){
-        if(isValid(4388576018410707l)){
+        if(isValid(4388576018402626l)){
             System.out.println("Valid");
         }
         else{

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff4ab46-1780-4432-83d0-fcbba505c2cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exam/bod1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam/bod1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam/bod1/src/Bodlogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter23/L23_5/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter30/J30_12/ParallelAssign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter30/L30_10/ParallelMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorial/E1/AnnoyingBeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J20_4/CopareY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J20_4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J20_4/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J21_1/Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J21_2/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J21_2/ug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J21_4/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/src/J21_4/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/J6_15/PrintTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/J6_15/PrintTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/SqrtNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/out/production/HW2/SqrtNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW2/src/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW2/src/SqrtNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/HW5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/HW5/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Chapter23/L23_5/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Chapter30/L30_10/ParallelMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Chapter30/L30_10/J30_12/ParallelAssign.java" />
+        <option value="$PROJECT_DIR$/src/Chapter30/J30_12/ParallelAssign.java" />
+        <option value="$PROJECT_DIR$/src/Tutorial/E1/AnnoyingBeep.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="134" />
+    <option name="y" value="27" />
+    <option name="width" value="1431" />
+    <option name="height" value="863" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AnnoyingBeep">
+    <configuration name="AnnoyingBeep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tutorial.E1.AnnoyingBeep" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tutorial.E1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelAssign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter30.J30_12.ParallelAssign" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter30.J30_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter30.L30_10.ParallelMergeSort" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter30.L30_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnoyingBeep" />
+        <item itemvalue="Application.ParallelAssign" />
+        <item itemvalue="Application.ParallelMergeSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff4ab46-1780-4432-83d0-fcbba505c2cd" name="Default Changelist" comment="" />
+      <created>1554767895419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554767895419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998747" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32998747" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32998747" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Chapter23/L23_5/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter30/L30_10/ParallelMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tutorial/E1/AnnoyingBeep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter30/J30_12/ParallelAssign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding>
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

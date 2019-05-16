@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e6831e-a476-44c3-8ece-fdf841fbaba0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/J10_12/TestTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/J10_12/Triangle2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/J10_12/Triangle2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/J6_15/PrintTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/J6_15/PrintTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/SqrtNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/SqrtNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/SqrtNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +19,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/J10_12/MyPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/J10_12/Triangle2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/J10_12/TestTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/J11_13/RemoveDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/J11_16/RepeatAdditionQuiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,14 +115,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="J11_13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="J11_16" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553265159982" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW3" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553313387777" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW5" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTriangle">
+  <component name="RunManager" selected="Application.RemoveDuplicate">
     <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="J11_13.RemoveDuplicate" />
       <module name="HW4" />
@@ -113,8 +205,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestTriangle" />
         <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.TestTriangle" />
         <item itemvalue="Application.RepeatAdditionQuiz" />
       </list>
     </recent_temporary>
@@ -164,56 +256,53 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/J11_16/RepeatAdditionQuiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/J11_13/Remover.java" />
-    <entry file="file://$PROJECT_DIR$/src/J11_13/RemoveDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#167#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle2D.java" />
-    <entry file="file://$PROJECT_DIR$/src/J10_12/TestTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/J10_12/MyPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        <state relative-caret-position="168">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/J10_12/Triangle2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="31" column="85" selection-start-line="31" selection-start-column="85" selection-end-line="31" selection-end-column="85" />
+        <state relative-caret-position="819">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/J10_12/MyPoint.java">
+    <entry file="file://$PROJECT_DIR$/src/J10_12/TestTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="294">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/J11_13/RemoveDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/J11_16/RepeatAdditionQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e617de7f-b280-45cc-8770-fb722e7ac2da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW2/src/J6_15/ComputeTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW2/src/J6_15/PrintTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/J10_25/MySplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/J10_27/MyStringBuilder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/J10_8/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW4/src/J10_12/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/PrintTax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/src/PrintTax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW4/src/J10_12/Triangle2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW4/src/J10_12/Triangle2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/J6_15/PrintTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/J6_15/PrintTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/out/production/HW2/SqrtNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/SqrtNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2/src/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/src/SqrtNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,17 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/J10_8/Tax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="84" column="30" lean-forward="true" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
-              <folding>
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1915#1916#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-330">
+              <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -46,21 +31,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/J10_25/MySplit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="294">
+              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#295#303#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/J10_27/MyStringBuilder1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+            <state relative-caret-position="409">
+              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
@@ -116,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,16 +118,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="J10_8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HW3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="J10_25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="J10_27" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553307451849" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553313150099" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tax">
+  <component name="RunManager" selected="Application.MyStringBuilder1">
     <configuration name="MySplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="J10_25.MySplit" />
       <module name="HW3" />
@@ -200,9 +196,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tax" />
-        <item itemvalue="Application.MySplit" />
         <item itemvalue="Application.MyStringBuilder1" />
+        <item itemvalue="Application.MySplit" />
+        <item itemvalue="Application.Tax" />
       </list>
     </recent_temporary>
   </component>
@@ -221,9 +217,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,21 +248,27 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/J10_27/MyStringBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/J10_8/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/J10_25/MySplit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="294">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#295#303#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/J10_27/MyStringBuilder1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="409">
+          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
@@ -285,19 +286,6 @@
             <element signature="e#694#695#0" expanded="true" />
             <element signature="e#724#725#0" expanded="true" />
             <element signature="e#748#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/J10_8/Tax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="84" column="30" lean-forward="true" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
-          <folding>
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1915#1916#0" expanded="true" />
-            <element signature="e#1965#1966#0" expanded="true" />
           </folding>
         </state>
       </provider>

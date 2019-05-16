@@ -2,6 +2,7 @@ public class SqrtNumber {
     public SqrtNumber(){
 
         System.out.println(sqrt(50));
+        System.out.println(Math.sqrt(50));
     }
     static double lastGuess = 1;
     static double nextGuess = 0;
